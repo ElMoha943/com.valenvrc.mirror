@@ -1,0 +1,29 @@
+{
+  "name": "com.valenvrc.mirror",
+  "version": "1.0.0",
+  "description": "A mirror script that has 3 different modes, and can be toggled on and off by distance, also features sounds, particles and an animated menu.",
+  "displayName": "Valenvrc - Mirror",
+  "author": {
+    "name": "valenvrc",
+    "url": "https://discord.gg/6AcpahXKQu"
+  },
+  "license": "LICENSE.md",
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.6",
+    "com.valenvrc.common": ">=1.6.0"
+  },
+  "legacyPackages": [
+    "com.vrchat.clientsim",
+    "com.vrchat.udonsharp"
+  ],
+  "keywords": [
+    "udon",
+    "vrchat",
+    "mirror"
+  ]
+}
