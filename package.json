@@ -15,7 +15,7 @@
   },
   "vpmDependencies": {
     "com.vrchat.worlds": ">=3.6",
-    "com.valenvrc.common": ">=1.6.0"
+    "com.valenvrc.common": ">=1.5.0"
   },
   "legacyPackages": [
     "com.vrchat.clientsim",
