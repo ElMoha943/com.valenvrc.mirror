@@ -348,9 +348,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Transparent
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fbd324fde7a60784d8b27471b7e1642b, type: 2}
-  m_sharedMaterial: {fileID: -4651157163885047588, guid: fbd324fde7a60784d8b27471b7e1642b,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -6455,7 +6454,7 @@ GameObject:
   - component: {fileID: 467650091346328444}
   m_Layer: 0
   m_Name: Collider Visualizer
-  m_TagString: Untagged
+  m_TagString: EditorOnly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7075,9 +7074,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: High Quality
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fbd324fde7a60784d8b27471b7e1642b, type: 2}
-  m_sharedMaterial: {fileID: -4651157163885047588, guid: fbd324fde7a60784d8b27471b7e1642b,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7245,9 +7243,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Mirror
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fbd324fde7a60784d8b27471b7e1642b, type: 2}
-  m_sharedMaterial: {fileID: -4651157163885047588, guid: fbd324fde7a60784d8b27471b7e1642b,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7778,7 +7775,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7827518370916313327}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.70710784, z: -0, w: 0.70710576}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0.5, z: -8.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -7799,7 +7796,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 999d5d16f1b26da41b56d544201b7635, type: 2}
-  m_CullingMode: 2
+  m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
@@ -7876,9 +7873,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: SkyBox
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fbd324fde7a60784d8b27471b7e1642b, type: 2}
-  m_sharedMaterial: {fileID: -4651157163885047588, guid: fbd324fde7a60784d8b27471b7e1642b,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -8292,9 +8288,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Off
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fbd324fde7a60784d8b27471b7e1642b, type: 2}
-  m_sharedMaterial: {fileID: -4651157163885047588, guid: fbd324fde7a60784d8b27471b7e1642b,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
