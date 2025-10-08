@@ -1,6 +1,6 @@
 {
   "name": "com.valenvrc.mirror",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A mirror script that has 3 different modes, and can be toggled on and off by distance, also features sounds, particles and an animated menu.",
   "displayName": "Valenvrc - Mirror",
   "author": {
@@ -25,5 +25,6 @@
     "udon",
     "vrchat",
     "mirror"
-  ]
+  ],
+  "hideInEdtitor": false
 }
