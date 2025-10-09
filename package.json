@@ -25,5 +25,6 @@
     "udon",
     "vrchat",
     "mirror"
-  ]
+  ],
+  "hideInEdtitor": false
 }
